@@ -1,0 +1,15 @@
+.select {
+    background: #fff;
+    width: 200px;
+    outline: none;
+    height: 40px;
+    padding: 10px 10px 10px 10px;
+    appearance: none;
+    border: 1px solid #B2BABB;
+    border-radius: 5px;
+}
+
+.select option {
+    border: none;
+    outline: none;
+}
